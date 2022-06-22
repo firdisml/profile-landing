@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering **Solidty 💠 & Ruby 🔺**
 
-- 👯 I’m looking to collaborate on **WEB 3.0 based projects !**
+- 👯 I’m looking to collaborate on any **WEB 3.0 based projects !**
 
 - 👨‍💻 All of my projects are available at [https://github.com/firdisml](https://github.com/firdisml)
 
@@ -17,7 +17,7 @@
 
 - 📫 You can reach me through my Linkedin **https://www.linkedin.com/in/firdismail/?original_referer=**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/firdismail/?original_referer=](https://www.linkedin.com/in/firdismail/?original_referer=)
+- 📄 Know about my experiences [https://www.linkedin.com/in/firdismail/](https://www.linkedin.com/in/firdismail/)
 
 - ⚡ Fun fact **I also can do some 3D Modelling!**
 
