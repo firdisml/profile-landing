@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/firdisml](https://github.com/firdisml)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/firdismail/recent-activity/](https://www.linkedin.com/in/firdismail/recent-activity/)
-
 - 💬 Ask me anything about **my projects 😄**
 
 - 📫 You can reach me through my Linkedin **https://www.linkedin.com/in/firdismail/?original_referer=**
