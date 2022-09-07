@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Raizzen Decentralized Appplication](https://www.raizzen.com/)
 
-- 🌱 I’m currently mastering **Solidty 💠 & Ruby 🔺**
+- 🌱 I’m currently mastering **Solidty 💠 & Angular 🔺**
 
 - 👯 I’m looking to collaborate on any **WEB 3.0 based projects !**
 
-- 👨‍💻 All of my projects are available at [https://github.com/firdisml](https://github.com/firdisml)
+- 👨‍💻 All of my public projects are available at [https://github.com/firdisml](https://github.com/firdisml)
 
 - 💬 Ask me anything about **my projects 😄**
 
