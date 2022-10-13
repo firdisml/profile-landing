@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Raizzen Decentralized Appplication](https://www.raizzen.com/)
 
-- 🌱 I’m currently mastering **Solidity 💠 & Angular🔺**
+- 🌱 I’m currently mastering **Nest 💠 & Angular🔺**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/firdisml?tab=repositories](https://github.com/firdisml?tab=repositories)
 
