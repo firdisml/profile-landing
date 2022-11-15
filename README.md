@@ -34,7 +34,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=firdisml&show_icons=true&theme=radical&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=firdisml&show_icons=true&theme=dracula&hide_title=true)
 
 </div>
 
