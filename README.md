@@ -4,8 +4,10 @@
 ###
 
 <p align="center">Hey there! A large portion of my time is devoted to the creation of something I find fascinating. Among the many skills I have, web development is where I really shine. Although my strongest suit is web development, I am also proficient in other areas.</p>
+  
 
 ###
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
     
 ## Languages :
