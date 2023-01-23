@@ -48,7 +48,6 @@
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=firdisml&show_icons=true&theme=dracula&hide_title=true)
 
 </div>
 
